@@ -1,0 +1,1 @@
+This project is a simple web scraper built using Python, Selenium, and BeautifulSoup. It extracts name, phone number, and details of businesses (like hospitals, colleges, schools, etc.) from Google Maps search results and saves the data into an Excel file (data.xlsx).
